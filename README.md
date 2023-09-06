@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+一名普通的大学生，是一个喜欢新鲜事物更喜欢摸鱼的人。
 <!--
 **Focuspresent/Focuspresent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
